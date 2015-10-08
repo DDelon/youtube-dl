@@ -158,6 +158,7 @@ from .eroprofile import EroProfileIE
 from .escapist import EscapistIE
 from .espn import ESPNIE
 from .esri import EsriVideoIE
+from .europa import EuropaIE
 from .everyonesmixtape import EveryonesMixtapeIE
 from .exfm import ExfmIE
 from .expotv import ExpoTVIE
@@ -169,10 +170,7 @@ from .firstpost import FirstpostIE
 from .firsttv import FirstTVIE
 from .fivemin import FiveMinIE
 from .fivetv import FiveTVIE
-from .fktv import (
-    FKTVIE,
-    FKTVPosteckeIE,
-)
+from .fktv import FKTVIE
 from .flickr import FlickrIE
 from .folketinget import FolketingetIE
 from .footyroom import FootyRoomIE
@@ -228,7 +226,6 @@ from .historicfilms import HistoricFilmsIE
 from .history import HistoryIE
 from .hitbox import HitboxIE, HitboxLiveIE
 from .hornbunny import HornBunnyIE
-from .hostingbulk import HostingBulkIE
 from .hotnewhiphop import HotNewHipHopIE
 from .howcast import HowcastIE
 from .howstuffworks import HowStuffWorksIE
@@ -297,6 +294,11 @@ from .libsyn import LibsynIE
 from .lifenews import (
     LifeNewsIE,
     LifeEmbedIE,
+)
+from .limelight import (
+    LimelightMediaIE,
+    LimelightChannelIE,
+    LimelightChannelListIE,
 )
 from .liveleak import LiveLeakIE
 from .livestream import (
