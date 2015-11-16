@@ -53,6 +53,7 @@
  - **Bandcamp:album**
  - **bbc**: BBC
  - **bbc.co.uk**: BBC iPlayer
+ - **bbc.co.uk:article**: BBC articles
  - **BeatportPro**
  - **Beeg**
  - **BehindKink**
@@ -66,7 +67,8 @@
  - **Bpb**: Bundeszentrale für politische Bildung
  - **BR**: Bayerischer Rundfunk Mediathek
  - **Break**
- - **Brightcove**
+ - **brightcove:legacy**
+ - **brightcove:new**
  - **bt:article**: Bergens Tidende Articles
  - **bt:vestlendingen**: Bergens Tidende - Vestlendingen
  - **BuzzFeed**
@@ -81,6 +83,7 @@
  - **CBSSports**
  - **CeskaTelevize**
  - **channel9**: Channel 9
+ - **Chaturbate**
  - **Chilloutzone**
  - **chirbit**
  - **chirbit:profile**
@@ -91,6 +94,7 @@
  - **Clipsyndicate**
  - **Cloudy**
  - **Clubic**
+ - **Clyp**
  - **cmt.com**
  - **CNET**
  - **CNN**
@@ -120,6 +124,7 @@
  - **DctpTv**
  - **DeezerPlaylist**
  - **defense.gouv.fr**
+ - **democracynow**
  - **DHM**: Filmarchiv - Deutsches Historisches Museum
  - **Discovery**
  - **Dotsub**
@@ -158,6 +163,7 @@
  - **facebook**
  - **faz.net**
  - **fc2**
+ - **Fczenit**
  - **fernsehkritik.tv**
  - **Firstpost**
  - **FiveTV**
@@ -191,10 +197,10 @@
  - **Giga**
  - **Glide**: Glide mobile video messages (glide.me)
  - **Globo**
+ - **GloboArticle**
  - **GodTube**
  - **GoldenMoustache**
  - **Golem**
- - **GorillaVid**: GorillaVid.in, daclips.in, movpod.in, fastvideo.in, realvid.net and filehoot.com
  - **Goshgay**
  - **Groupon**
  - **Hark**
@@ -278,9 +284,8 @@
  - **macgamestore**: MacGameStore trailers
  - **mailru**: Видео@Mail.Ru
  - **Malemotion**
- - **MDR**
+ - **MDR**: MDR.DE and KiKA
  - **media.ccc.de**
- - **MegaVideoz**
  - **metacafe**
  - **Metacritic**
  - **Mgoon**
@@ -362,6 +367,7 @@
  - **nowness:playlist**
  - **nowness:series**
  - **NowTV**
+ - **NowTVList**
  - **nowvideo**: NowVideo
  - **npo**: npo.nl and ntr.nl
  - **npo.nl:live**
@@ -421,7 +427,6 @@
  - **qqmusic:playlist**: QQ音乐 - 歌单
  - **qqmusic:singer**: QQ音乐 - 歌手
  - **qqmusic:toplist**: QQ音乐 - 排行榜
- - **Quickscope**: Quick Scope
  - **QuickVid**
  - **R7**
  - **radio.de**
@@ -514,6 +519,7 @@
  - **SSA**
  - **stanfordoc**: Stanford Open ClassRoom
  - **Steam**
+ - **Stitcher**
  - **streamcloud.eu**
  - **StreamCZ**
  - **StreetVoice**
@@ -587,7 +593,8 @@
  - **twitch:stream**
  - **twitch:video**
  - **twitch:vod**
- - **TwitterCard**
+ - **twitter**
+ - **twitter:card**
  - **Ubu**
  - **udemy**
  - **udemy:course**
@@ -612,7 +619,6 @@
  - **video.mit.edu**
  - **VideoDetective**
  - **videofy.me**
- - **videolectures.net**
  - **VideoMega**
  - **VideoPremium**
  - **VideoTt**: video.tt - Your True Tube
@@ -622,6 +628,7 @@
  - **vier**
  - **vier:videos**
  - **Viewster**
+ - **Viidea**
  - **viki**
  - **viki:channel**
  - **vimeo**
@@ -664,6 +671,7 @@
  - **WSJ**: Wall Street Journal
  - **XBef**
  - **XboxClips**
+ - **XFileShare**: XFileShare based sites: GorillaVid.in, daclips.in, movpod.in, fastvideo.in, realvid.net, filehoot.com and vidto.me
  - **XHamster**
  - **XHamsterEmbed**
  - **XMinus**
