@@ -38,6 +38,7 @@ from .arte import (
 )
 from .atresplayer import AtresPlayerIE
 from .atttechchannel import ATTTechChannelIE
+from .audimedia import AudiMediaIE
 from .audiomack import AudiomackIE, AudiomackAlbumIE
 from .azubu import AzubuIE
 from .baidu import BaiduVideoIE
@@ -132,6 +133,7 @@ from .dfb import DFBIE
 from .dhm import DHMIE
 from .dotsub import DotsubIE
 from .douyutv import DouyuTVIE
+from .dplay import DPlayIE
 from .dramafever import (
     DramaFeverIE,
     DramaFeverSeriesIE,
@@ -553,6 +555,10 @@ from .shahid import ShahidIE
 from .shared import SharedIE
 from .sharesix import ShareSixIE
 from .sina import SinaIE
+from .skynewsarabia import (
+    SkyNewsArabiaIE,
+    SkyNewsArabiaArticleIE,
+)
 from .slideshare import SlideshareIE
 from .slutload import SlutloadIE
 from .smotri import (
@@ -575,7 +581,8 @@ from .soundcloud import (
     SoundcloudIE,
     SoundcloudSetIE,
     SoundcloudUserIE,
-    SoundcloudPlaylistIE
+    SoundcloudPlaylistIE,
+    SoundcloudSearchIE
 )
 from .soundgasm import (
     SoundgasmIE,
@@ -832,6 +839,7 @@ from .youtube import (
     YoutubeTruncatedIDIE,
     YoutubeTruncatedURLIE,
     YoutubeUserIE,
+    YoutubeUserPlaylistsIE,
     YoutubeWatchLaterIE,
 )
 from .zapiks import ZapiksIE
